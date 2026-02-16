@@ -1,0 +1,1 @@
+# sp500-regime-trading-system
