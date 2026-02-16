@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.log
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local data / outputs
+data/
+outputs/
+
+# VSCode settings
+.vscode/
+
+# MacOS system files
+.DS_Store
